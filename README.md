@@ -4,7 +4,7 @@ A responsive e-commerce frontend built with **React, Vite, and JavaScript**, fea
 
 ## 🌐 Live Demo
 
-**[View Live Demo](YOUR_LIVE_DEMO_URL)**
+**[View Live Demo](https://react-ecommerce-store-delta.vercel.app/)**
 
 ## ✨ Features
 
