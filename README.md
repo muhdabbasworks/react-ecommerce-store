@@ -32,8 +32,8 @@ A responsive e-commerce frontend built with **React, Vite, and JavaScript**, fea
 **Prerequisites:** Node.js and npm.
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd YOUR_PROJECT_FOLDER
+git clone git clone https://github.com/muhdabbasworks/react-ecommerce-store.git
+cd react-ecommerce-store
 npm install
 npm run dev
 ```
